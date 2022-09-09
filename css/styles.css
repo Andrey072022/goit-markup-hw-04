@@ -372,14 +372,9 @@ margin-bottom: 50px;
 flex-direction: column;  height: 252px; */
 
 .footer-decorat{ 
-    display: flex;
     background-color: var(--secondary-body-color);
     padding: 60px 0;
-    max-width: 1600px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 215px;
-   
+       
 }
 
 .page-logo-footer{
